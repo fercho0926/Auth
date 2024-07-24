@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj": {}
+    "C:\\Workspaces\\Auth\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj": {
+    "C:\\Workspaces\\Auth\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Workspaces\\Auth\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj",
+        "projectPath": "C:\\Workspaces\\Auth\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspaces\\bkp\\login\\Data\\obj\\",
+        "outputPath": "C:\\Workspaces\\Auth\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferch\\AppData\\Roaming\\NuGet\\NuGet.Config",
