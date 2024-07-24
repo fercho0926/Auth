@@ -1,5 +1,7 @@
 using Api.Extensions;
-using Api.Middleware;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,15 +17,6 @@ builder.Services.AddIdentityService(builder.Configuration);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
-
-
-
-app.UseMiddleware<ExceptionMiddleware>();
-app.UseStatusCodePagesWithReExecute("/errors/{0}");
-
-
-
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

@@ -26,8 +26,8 @@ namespace Api.Controllers
         }
 
 
-        //[Authorize]
-        [HttpPost("/Create")]
+        [Authorize]
+        [HttpPost("Create")]
         public async Task<ActionResult<UserDTO>> Create(CreateUserRequest userRequest)
         {
 
