@@ -6,7 +6,7 @@ import { IUser } from '../../../types/user-management/user-types';
 @Injectable({
   providedIn: 'root'
 })
-export class UserService  {
+export class UserService_OLD  {
 
   constructor( private http: HttpClient ) { }
 
