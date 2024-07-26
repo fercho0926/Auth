@@ -7,7 +7,6 @@ using UserManagement.Services;
 
 namespace Api.Controllers
 {
-
     public class UserController : BaseApiController
     {
         private readonly IUserService _userService;
