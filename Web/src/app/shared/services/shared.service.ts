@@ -21,6 +21,11 @@ export class SharedService {
   }
 
   getSession(): Sesion {
+
+
+
+
+
     const sesionString = localStorage.getItem('userSession');
     const userToken = JSON.parse(sesionString!);
 

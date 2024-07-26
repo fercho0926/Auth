@@ -1,1 +1,32 @@
-<p>layout works!</p>
+<mat-toolbar color="primary">
+  <span>Scylla</span>
+  <button mat-icon-button (click)="sideNav.toggle();">
+    <mat-icon>menu</mat-icon>
+  </button>
+
+  <span style="flex:1 1 auto;"></span>
+  <label style="font-size: 14px; margin-right: 20px;">{{userEmail}}</label>
+  <button mat-icon-button (click)="logout()">
+    <mat-icon>logout</mat-icon>
+    </button>
+</mat-toolbar>
+
+<mat-sidenav-container>
+  <mat-sidenav #sideNav mode="side" opened class="sideNav" >
+    <mat-nav-list>
+      <mat-list-item>
+        <mat-icon matListIcon style="color: aliceblue;" >dashboard</mat-icon>
+        <div matListItemTitle style="color: white">Dashboard</div>
+      </mat-list-item>
+      <mat-list-item>
+        <mat-icon matListIcon style="color: aliceblue;" >dashboard</mat-icon>
+        <div matListItemTitle style="color: white">Dashboard</div>
+      </mat-list-item>
+
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div style="height: 90vh;"></div>
+
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>

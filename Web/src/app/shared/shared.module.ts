@@ -4,6 +4,9 @@ import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { LayoutComponent } from './layout/layout.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { share } from 'rxjs';
+import { MaterialModule } from '../material/material.module';
+import { AppRoutingModule } from '../app-routing.module';
 
 
 
@@ -14,7 +17,9 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     DashboardComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+MaterialModule,
+AppRoutingModule,
   ],
   exports: [
     ReactiveFormsModule,
