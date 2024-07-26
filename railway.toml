@@ -1,8 +1,8 @@
 [build]
 builder = "dockerfile"
-dockerfilePath = "./RailwayDeploymentAot/Dockerfile"
+dockerfilePath = "./Scylla/Dockerfile"
 
 [deploy]
-startCommand = "./RailwayDeploymentAot"
+startCommand = "./Scylla"
 restartPolicyType = "always"
 healthcheckPath = "/health"
