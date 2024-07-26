@@ -1,8 +1,8 @@
 [build]
 builder = "dockerfile"
-dockerfilePath = "./Scylla/Dockerfile"
+dockerfilePath = "./Api/Dockerfile"
 
 [deploy]
-startCommand = "./Scylla"
+startCommand = "./Api/Scylla"
 restartPolicyType = "always"
 healthcheckPath = "/health"
