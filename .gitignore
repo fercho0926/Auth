@@ -30,3 +30,18 @@ $RECYCLE.BIN/
 
 # Visual Studio temporary files
 .vs/
+
+# Ignorar todo en bin/Debug/
+bin/Debug/*
+
+# Excepciones - No ignorar estos archivos específicos
+!bin/Debug/Api.deps.json
+!bin/Debug/Api.dll
+!bin/Debug/Api.exe
+!bin/Debug/Api.pdb
+!bin/Debug/appsettings.Development.json
+!bin/Debug/Data.dll
+!bin/Debug/Data.pdb
+!bin/Debug/System.Text.Json.dll
+!bin/Debug/UserManagement.dll
+!bin/Debug/UserManagement.pdb

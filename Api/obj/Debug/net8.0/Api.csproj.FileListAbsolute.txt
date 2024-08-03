@@ -334,7 +334,6 @@ C:\Workspaces\Auth\Api\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Workspaces\Auth\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Workspaces\Auth\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Workspaces\Auth\Api\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Workspaces\Auth\Api\bin\Debug\net8.0\System.Text.Json.dll
 C:\Workspaces\Auth\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Workspaces\Auth\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Workspaces\Auth\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll

@@ -1,0 +1,15 @@
+C:\WorkSpaces\Auth\Data\bin\Release\net8.0\Data.deps.json
+C:\WorkSpaces\Auth\Data\bin\Release\net8.0\Data.runtimeconfig.json
+C:\WorkSpaces\Auth\Data\bin\Release\net8.0\Data.dll
+C:\WorkSpaces\Auth\Data\bin\Release\net8.0\Data.pdb
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.sourcelink.json
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.dll
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\refint\Data.dll
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.pdb
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\Data.genruntimeconfig.cache
+C:\WorkSpaces\Auth\Data\obj\Release\net8.0\ref\Data.dll

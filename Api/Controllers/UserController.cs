@@ -26,7 +26,7 @@ namespace Api.Controllers
         }
 
 
-        [Authorize]
+        //[Authorize]
         [HttpPost("Create")]
         public async Task<ActionResult<UserDTO>> Create(CreateUserRequest userRequest)
         {
@@ -39,7 +39,7 @@ namespace Api.Controllers
             }
 
 
-             return await _userService.Create(userRequest);
+            return await _userService.Create(userRequest);
 
         }
 

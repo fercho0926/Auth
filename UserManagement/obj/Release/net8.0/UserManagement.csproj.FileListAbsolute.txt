@@ -1,0 +1,16 @@
+C:\WorkSpaces\Auth\UserManagement\bin\Release\net8.0\UserManagement.deps.json
+C:\WorkSpaces\Auth\UserManagement\bin\Release\net8.0\UserManagement.dll
+C:\WorkSpaces\Auth\UserManagement\bin\Release\net8.0\UserManagement.pdb
+C:\WorkSpaces\Auth\UserManagement\bin\Release\net8.0\Data.dll
+C:\WorkSpaces\Auth\UserManagement\bin\Release\net8.0\Data.pdb
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.csproj.AssemblyReference.cache
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.AssemblyInfoInputs.cache
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.AssemblyInfo.cs
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.sourcelink.json
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserMana.582A6DE7.Up2Date
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.dll
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\refint\UserManagement.dll
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\UserManagement.pdb
+C:\WorkSpaces\Auth\UserManagement\obj\Release\net8.0\ref\UserManagement.dll
